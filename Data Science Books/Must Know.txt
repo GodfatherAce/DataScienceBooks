@@ -1,0 +1,52 @@
+The Basics
+
+If you’re applying for an entry/junior-Level position, you should know the following basics like the back of your hand:
+
+    What is P-Value?
+    Why would you want to use Regularization?
+    How you can fit Non-Linear Relations, say between X (Age) and Y (Income) into a Linear Model?
+    What is Gradient Descent Method?
+    Which Clustering methods you are familiar with? Walk me through the methodology.
+    Describe Matrix arithmetic.
+    What is an Eigenvalue? And what is an Eigenvector?
+    Which libraries for Analytics/Data-Science are you are familiar in Python? R? Others?
+    Make sure you know the fundamentals of ROC, Precision, bias vs. variance trade-off, etc.
+    Provide two methods for Feature Selection and be prepared to describe them.
+    Describe the difference between Bayesian Inference vs. MLE (Maximum Likelihood Estimation).
+    Why Naïve Bayes (for Classification) is so Naïveté?
+
+Be sure you are familiar with concepts in Probability Theory and Linear Algebra, articulated best practices for Standard Classification models in Machine Learning, and Time Series. Make sure you come prepared with both verbal and visual examples of a data science projects that you have either worked on – or, better yet – led.
+
+If you feel confident that you can answer all of these easily, you should perhaps consider applying for more advanced data science position.
+More Advanced Questions
+
+The interview for Advanced Level Positions involves more in-depth questions –  employers expect more detailed explanations along with whiteboard math. Here’s a list of basic questions you should expect:
+
+    Regularization: What is the difference in the outcome (coefficients) between the L1 and L2 norms?
+    How do you fit a non-linear relation between X and Y in a Linear Model? Are there other methods?
+    What is Box-Cox transformation?
+    What is Multicollinearity? How can you solve it?
+    Clustering: know 2 methods to find the optimal k (k*) in K-Mean.
+    Gradient Descent: Will it always converge to the same point? Will it always find the Local Minima?
+    What is the difference between Batch Gradient Descent and Stochastic Gradient Descent? Which of these is computationally faster? Why?
+    Describe the Natural Language Process (NLP) – specifically text analysis.
+    What is the functionality of Combinatorics?
+    What is the difference between recurrent neural networks and recursive neural networks?
+    Be familiar with Collaborative filtering / Recommendation Engine.
+    Be familiar with FM (Factorization Machine) Method.
+
+In many cases, employers will also test for soft skills. They want to make sure that the data scientist that they’re hiring will know also know how to collaborate with other teams and communicate results to the executive leadership. You might even be given a “consulting project” and will be asked to walk through your thoughts and methodology. You can practice this with the following example:
+
+    Assume that you are asked to lead a project to identify the amount of Churn in a large organization. Assume, you have a lot of data, with a binary indication for churn: “exist” (o= churned, 1= still paying). The large data set also includes demographics and other important features to identify businesses behavior.
+
+    Do the following:
+
+        Describe the methodology and model that you will chose in order to identify churn in this large organization, and describe your thought process.
+        How would you communicate your results to the CEO and executive team at this company? What would be included in your visuals? If so, what would they look like? Be creative.
+        Among the 50K businesses in the data-set, if only 0.025 has a positive indication (exist = “1”) and your results (all coefficients) are insignificant, can you think about a way to keep the training ratio exist (=0) / exist (=1) more balanced, without narrowing the sample size?
+
+Other General Tips
+
+    Be confident!
+    If you don’t know the answer, I will appreciate it more if you say, “I’m not familiar with this but this is how I would approach it” (make sure to articulate your thought process, most managers appreciate a candidate that can think on his own)
+    Think of creative ways to solve and communicate data science problems – this is the secret ingredient to becoming a great data scientist.
